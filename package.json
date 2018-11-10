@@ -1,0 +1,13 @@
+{
+  "name": "canvas-collision-advanced",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url '.'"
+  },
+  "author": "Hanif Carroll <hanifcarroll@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
